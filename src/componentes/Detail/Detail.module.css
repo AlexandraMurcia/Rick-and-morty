@@ -1,0 +1,20 @@
+.contenedor{
+    background-color: rgba(0, 0, 0, 0.349);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 92px;
+    margin-right: 92px;
+}
+
+
+.datos{
+    /* background-color: chartreuse; */
+    /* padding: 90px; */
+    font-size: 26px;
+    margin-left: 59px;
+
+}
+.imagenn{
+    width: 400px;
+}

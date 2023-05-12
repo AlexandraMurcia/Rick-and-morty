@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.521);
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 16px;
+}
+
+.btn{
+    height: 40px;
+    width: 97px;
+    margin-left: 35px;
+    cursor: pointer;
+}
+
+
+.btnsalir{
+    background-image: url('../../image/salir.png');
+    background-color: transparent;
+    background-repeat:no-repeat;
+    height:55px;
+    width:55px;
+    background-size: 50px 50px;
+    background-position:center;
+    border: none;
+    margin-right: 7px;
+    cursor: pointer;
+}
+
+.search {
+    height: 100%;
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.componentes {
+justify-content: left;
+height: 100%;
+width: 50%;
+}
